@@ -1,0 +1,28 @@
+C:\Users\j.adamson1\source\repos\Loot Box Simulator\Loot Box Simulator\bin\Debug\netcoreapp3.1\Loot Box Simulator.exe
+C:\Users\j.adamson1\source\repos\Loot Box Simulator\Loot Box Simulator\bin\Debug\netcoreapp3.1\Loot Box Simulator.deps.json
+C:\Users\j.adamson1\source\repos\Loot Box Simulator\Loot Box Simulator\bin\Debug\netcoreapp3.1\Loot Box Simulator.runtimeconfig.json
+C:\Users\j.adamson1\source\repos\Loot Box Simulator\Loot Box Simulator\bin\Debug\netcoreapp3.1\Loot Box Simulator.runtimeconfig.dev.json
+C:\Users\j.adamson1\source\repos\Loot Box Simulator\Loot Box Simulator\bin\Debug\netcoreapp3.1\Loot Box Simulator.dll
+C:\Users\j.adamson1\source\repos\Loot Box Simulator\Loot Box Simulator\bin\Debug\netcoreapp3.1\Loot Box Simulator.pdb
+C:\Users\j.adamson1\source\repos\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.csproj.AssemblyReference.cache
+C:\Users\j.adamson1\source\repos\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j.adamson1\source\repos\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.AssemblyInfoInputs.cache
+C:\Users\j.adamson1\source\repos\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.AssemblyInfo.cs
+C:\Users\j.adamson1\source\repos\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.csproj.CoreCompileInputs.cache
+C:\Users\j.adamson1\source\repos\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.dll
+C:\Users\j.adamson1\source\repos\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.pdb
+C:\Users\j.adamson1\source\repos\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.genruntimeconfig.cache
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Loot Box Simulator\Loot Box Simulator\bin\Debug\netcoreapp3.1\Loot Box Simulator.exe
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Loot Box Simulator\Loot Box Simulator\bin\Debug\netcoreapp3.1\Loot Box Simulator.deps.json
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Loot Box Simulator\Loot Box Simulator\bin\Debug\netcoreapp3.1\Loot Box Simulator.runtimeconfig.json
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Loot Box Simulator\Loot Box Simulator\bin\Debug\netcoreapp3.1\Loot Box Simulator.runtimeconfig.dev.json
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Loot Box Simulator\Loot Box Simulator\bin\Debug\netcoreapp3.1\Loot Box Simulator.dll
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Loot Box Simulator\Loot Box Simulator\bin\Debug\netcoreapp3.1\Loot Box Simulator.pdb
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.csproj.AssemblyReference.cache
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.AssemblyInfoInputs.cache
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.AssemblyInfo.cs
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.csproj.CoreCompileInputs.cache
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.dll
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.pdb
+F:\Programs CS30\C#\Visual Studio\Personal Projects\Loot Box Simulator\Loot Box Simulator\obj\Debug\netcoreapp3.1\Loot Box Simulator.genruntimeconfig.cache
